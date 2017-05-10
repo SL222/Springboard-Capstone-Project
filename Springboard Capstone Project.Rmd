@@ -7,22 +7,38 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# SpringBoard Data Science Capstone Project May 2017
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Topic: Addressing student skills and employer needs
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+**The problem:** Students spend a small fortune getting a college degree, but how do they know which skills lead to good paying jobs? In fact, only 4 in 10 college seniors feel their college experience has been very helpful in preparing for a career, according to a study by McGraw-Hill Education’s 2016 [annual Workforce Readiness Survey](http://www.multivu.com/players/English/7782351-mcgraw-hill-education-survey/). What's clear is that students often feel a disconnect between what they are learning in school and what employers are truly looking for. 
 
-```{r cars}
-summary(cars)
-```
+Even more troubling, according to a [report](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci20-1.pdf) done by the New York Reserve Bank in January of 2017, they found that 33% of college graduates were underemployed at jobs that don't require a college degree. This, the report claims, is due to a lack of of collaboration between higher education and businesses looking to hire. 
 
-## Including Plots
+They say that the best way to promote better outcomes for college graduates is to "develop a fuller understanding of the relationship between their own curriculum, the needs of employers... and the most valuable skills to build while in school." What needs to be done is to bridge the gap between what higher education has to offer and what companies are truly looking for.
 
-You can also embed plots, for example:
+**The client:** The client for this project will be a university, let's say the University of Miami. With this project's analysis, the university will have real-time information about what skills employers in Miami are looking for in their grads, how much they are willing to pay to fill those positions, and the top jobs in their area. The goal is to create a curriculum so up to date and relevent that their graduates are able to find truly rewarding and high paying jobs with relative ease. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+The data:
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+1. Mine data from job boards that include the top skills to have and use that information to develop a "relevent" college curriculum.
+
+
+2. Scrape [indeed.com](www.indeed.com) data from Miami area
+
+**Outline/Approach:**
+
+1. Scrape Indeed data
+
+2. Tidy data
+
+3. Exploratory data analysis, focusing on skill requirements, job titles, salaries, and location
+
+4. Summarize findings in deliverables listed below and publish to the Springboard community.
+
+**Deliverables:**
+
+1. Code
+
+2. Paper and/or slide deck
