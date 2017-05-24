@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Topic: Addressing student skills and employer needs
 
-**The problem:** Students spend a small fortune getting a college degree, but how do they know which skills lead to good paying jobs? In fact, only 4 in 10 college seniors feel their college experience has been very helpful in preparing for a career, according to a study by McGraw-Hill Education’s 2016 [annual Workforce Readiness Survey](http://www.multivu.com/players/English/7782351-mcgraw-hill-education-survey/). What's clear is that students often feel a disconnect between what they are learning in school and what employers are truly looking for.
+**The problem:** With around [$1.4 trillion](https://studentloanhero.com/student-loan-debt-statistics/) in student loan debt, students spend a small fortune trying to acquire a college degree, but how do they know which skills lead to good paying jobs? In fact, only 4 in 10 college seniors feel their college experience has been very helpful in preparing for a career, according to a study by McGraw-Hill Education’s 2016 [annual Workforce Readiness Survey](http://www.multivu.com/players/English/7782351-mcgraw-hill-education-survey/). What's clear is that students often feel a disconnect between what they are learning in school and what employers are truly looking for.
 
 Even more troubling, according to a [report](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci20-1.pdf) done by the New York Reserve Bank in January of 2017, they found that 33% of college graduates were underemployed at jobs that don't require a college degree. This, the report claims, is due to a lack of of collaboration between higher education and businesses looking to hire. 
 
