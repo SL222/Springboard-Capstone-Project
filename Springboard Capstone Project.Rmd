@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Even more troubling, according to a [report](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci20-1.pdf) done by the New York Reserve Bank in January of 2017, they found that 33% of college graduates were underemployed at jobs that don't require a college degree. This, the report claims, is due to a lack of of collaboration between higher education and businesses looking to hire. 
 
-They say that the best way to promote better outcomes for college graduates is to "develop a fuller understanding of the relationship between their own curriculum, the needs of employers... and the most valuable skills to build while in school." What needs to be done is to bridge the gap between what higher education has to offer and what companies are truly looking for.
+Although college is also meant to promote good citizenship and develop students' critical thinking skills, it is, in part, also expected to produce candidates with industry-ready, time-sensitive career skills. With the latter objective in mind, the New York Fed suggests that the best way to promote better outcomes for college graduates and acquire job-ready skills is to "develop a fuller understanding of the relationship between their own curriculum, the needs of employers... and the most valuable skills to build while in school." Clearly, what needs to be done is to bridge the gap between what higher education is currently offering its students and what companies are truly looking for.
 
-**The client:** The client for this project will be a university, let's say the University of Miami. With this project's analysis, the university will have real-time information about what skills employers in Miami are looking for in their grads, how much they are willing to pay to fill those positions, and the top jobs in their area. The goal is to create a curriculum so up to date and relevent that their graduates are able to find truly rewarding and high paying jobs with relative ease. 
+**The client:** The client for this project will be a university, let's say the University of Miami. With this project's analysis, the university will have real-time information about what skills employers in Miami are looking for in their grads, how much they are willing to pay to fill those positions, and the top jobs in their area. The goal is to create a curriculum extremely up to date and relevent for graduates to feel truly prepared to enter the workforce and land the job of their dreams.
 
 The data:
 
@@ -25,11 +25,11 @@ The data:
 1. Mine data from job boards that include the top skills to have and use that information to develop a "relevent" college curriculum.
 
 
-2. Scrape [indeed.com](www.indeed.com) data from Miami area
+2. Utilize the Indeed job search engine API to analyze job postings in the Miami area.
 
 **Outline/Approach:**
 
-1. Scrape Indeed data
+1. Use Indeed API
 
 2. Tidy data
 
